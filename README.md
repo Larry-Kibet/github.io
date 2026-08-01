@@ -12,7 +12,7 @@ I am a developer specializing in CI/CD pipeline, systems architecture and cloud 
 ## 📁 Featured Projects
 ### 1. Project Name
 * **Description:** A brief explanation of what your project does and why it is great.
-* **Link:** [View Live App]( https://larry-kibet.github.io/) | [Source Code](https://github.com/Larry-Kibet/github.io.git)
+* **Link:** [View Live App]( https://larry-kibet.github.io/Project-portfolio-using-github-pages/) | [Source Code](https://github.com/Larry-Kibet/Project-portfolio-using-github-pages.git)
 
 ### 2. Another Cool Project
 * **Description:** Another project explanation showcasing a different skill.
