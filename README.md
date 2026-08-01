@@ -2,7 +2,7 @@
 Welcome to my professional portfolio website!
 
 ## 🚀 About Me
-I am a developer specializing in Javascript,Node.js,Python,C++,C,Java,Kotlin,AI/ML ,CI/CD pipeline. I love building clean, efficient, and user-centric web applications.
+I am a developer specializing in CI/CD pipeline, systems architecture and cloud architecture. I love building clean, efficient, and user-centric web applications.
 
 ## 🛠️ Tech Stack
 * **Languages:** JavaScript, Python, SQL
@@ -12,11 +12,11 @@ I am a developer specializing in Javascript,Node.js,Python,C++,C,Java,Kotlin,AI/
 ## 📁 Featured Projects
 ### 1. Project Name
 * **Description:** A brief explanation of what your project does and why it is great.
-* **Link:** [View Live App]( https://larry-kibet.github.io/) | [Source Code](https://github.com)
+* **Link:** [View Live App]( https://larry-kibet.github.io/) | [Source Code](https://github.com/Larry-Kibet/github.io.git)
 
 ### 2. Another Cool Project
 * **Description:** Another project explanation showcasing a different skill.
 
 ## 📬 Connect with Me
-* **LinkedIn:** [Your Profile](https://linkedin.com)
-* **Email:** you@email.com
+* **Email:** larryngesh@gmail.com
+* 
