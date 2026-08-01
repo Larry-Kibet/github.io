@@ -12,7 +12,7 @@ I am a developer specializing in Javascript,Node.js,Python,C++,C,Java,Kotlin,AI/
 ## 📁 Featured Projects
 ### 1. Project Name
 * **Description:** A brief explanation of what your project does and why it is great.
-* **Link:** [View Live App](https://your-project-link.com) | [Source Code](https://github.com)
+* **Link:** [View Live App]( https://larry-kibet.github.io/) | [Source Code](https://github.com)
 
 ### 2. Another Cool Project
 * **Description:** Another project explanation showcasing a different skill.
