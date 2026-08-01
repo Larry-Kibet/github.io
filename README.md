@@ -1,4 +1,4 @@
-# Hi, I'm [Larry Kibet Ngeno] 👋
+# Hi, I'm Larry Kibet Ngeno 👋
 Welcome to my professional portfolio website!
 
 ## 🚀 About Me
